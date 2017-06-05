@@ -1,0 +1,284 @@
+ALQ01,Acoples de 3/4,2,0.21,10
+ALQ02,Acoples de 5/8,2,0.21,10
+ALQ03,Acoples de 1/2,1,0.11,10
+ALQ04,Arandela de 5/8,0.3,0.1,10
+ALQ05,Base superior de 2 x 0.90 m,125,2.3,10
+ALQ06,Base inferior de 2,125,2.3,10
+ALQ07,Base inferior de 1 1/2,125,2.3,10
+ALQ08,Base superior de 1 1/2,125,2.3,10
+ALQ09,Cruceta de ángulo de 1 x 2.50 m,25,0.55,10
+ALQ10,Cruceta de tubo de 1 x 2.20 m,25,0.55,10
+ALQ11,Cruceta de ángulo de 1 x 2.74 m,25,0.55,10
+ALQ12,Perno de varilla corrugada 1 x 1.50 m,18.75,5.25,10
+ALQ13,Perno todo rosca de 5/8 x 1.00 m,5,1.58,10
+ALQ14,Perno cónico de 1 1/2 x 1.20 m,125,7.35,10
+ALQ15,Placa de 3/8 x 15 cm x 15 cm con agujero de 1,6,1.1,10
+ALQ16,Placa de 3/8 x 20 cm x 20 cm con agujero de 1,6,1.1,10
+ALQ17,Placa de 5/8 x 20 cm x 20 cm con agujero de 1 3/4 cónico,8.5,1.1,10
+ALQ18,Placa de 1/2 x 20 cm x 18 cm con agujero de 1 3/4 cónico,7,1.1,10
+ALQ19,Placa de 1/2 x 20 cm x 20 cm con agujero de 1 3/4 cónico,7,1.1,10
+ALQ20,Formaleta italiana 50 cm x 1.00 m,40,1.5,10
+ALQ21,Tensor señorita m14,7,1.05,10
+ALQ22,Tensor señorita m16 1/2,7,1.05,10
+ALQ23,Tensor señorita m12 5/8,12,1.05,10
+ALQ24,Tensor señorita m16 1 1/2,7,1.05,10
+ALQ25,Tensor señorita m12 solo punta,7,1.05,10
+ALQ26,Tubo base para andamios de 0.80 m x 1 1/2 tubo zancudo,15,2.1,10
+ALQ27,Tubo riostra metálico de 1 1/4 x 6.00 m,8,2.1,10
+ALQ28,Tubo riostra metálico de 1 1/4 de 4.00 m,5,1.85,10
+ALQ29,Tubo riostra metálico de 1 1/4 de 3.00 m,4,1.05,10
+ALQ30,Tubo riostra metálico de 1 1/4 x 3.50 m,4.5,1.85,10
+ALQ31,Tubo riostra metálico de 1 1/4 de 1.90 m,3,1.6,10
+ALQ32,Tuerca 1,1.33,0.1,10
+ALQ33,Tuercas de 5/8,0.2,0.1,10
+ALQ34,Union de 1 1/2 20 cm de largo,6,0.3,10
+ALQ35,Union estructural de 2 20 cm largo,6,0.3,10
+ALQ36,Union estructural de 2 14 cm largo,6,0.3,10
+ALQ37,Viga extensible de 3.60 m 8.5 cm x 20 cm,170,3.7,10
+ALQ38,Viga extensible de 4.60 m 8.5 cm x 20 cm,170,4.2,10
+ALQ39,Marco de andamio de albañilería azul  1.57 m x 1.93 m x 1 1/2,175,3.05,10
+ALQ40,Marco de andamio estructural verde 1.52 m x 0.67 m x 2,100,3.45,10
+ALQ41,Marco de andamio estructural amarillo 1.27 m 1.82 m x 2,200,3.45,10
+ALQ42,Marco de andamio estructural rojo 1.82 m x 1.28 m x 2,175,3.7,10
+ALQ43,Marco de andamio estructural verde 1.06 m x 0.67 m x 2,75,3.45,10
+ALQ44,Arandela de 1,0.5,0.1,10
+ALQ45,Plataforma metálica 0.40 m x 2.20 m,44,4.75,10
+ALQ46,Viga H de 3.05 m,42.7,3.45,10
+ALQ47,Viga H de 3.60 m,50.4,3.8,10
+ALQ48,Viga H de 1.80 m,25.2,3.15,10
+ALQ49,Wailer de 4 x 2.00 m,48.34,2.65,10
+ALQ50,Wailer de 4 x 6.00 m,145.02,9.5,10
+ALQ51,Wailer de 6 x 2.00 m,96,4.2,10
+ALQ52,Wailer de 6 x 2.13 m,102.24,4.2,10
+ALQ53,Wailer de 6 x 4.00 m,192,7.35,10
+ALQ54,Wailer de 6 x 6.00 m,288,10.5,10
+ALQ55,Viga H-20 1.90 m,30,3.15,10
+ALQ56,Viga H-20 2.90 m,45,3.7,10
+ALQ57,Viga H-20 3.90 m,60,5.25,10
+ALQ58,Escalerón para andamio,275,4.75,10
+ALQ59,Pasamano para andamio de 2.13 m x 1.11 m x 1 1/2,35,2.65,10
+ALQ60,Marco de andamio de albañilería 1.55 m x 1.58 m x 1 1/2,90,3.15,10
+ALQ61,Wailer de 6 x 3.00 m,144,4.75,10
+ALQ62,Wailer de 4 x 3.00 m,72.51,4.75,10
+ALQ63,Wailer de 4 x 4.00 m,96.68,6.3,10
+ALQ64,Formaleta 0.30 m x 1.22 m,40,3.15,10
+ALQ65,Perno todo rosca de 1/2 x 2.00 m,8,0.85,10
+ALQ66,Perno todo rosca de 3/4 x 1.00 m,7,1.05,10
+ALQ67,Perno todo rosca de 1 x 1.00 m,12.5,2.65,10
+ALQ68,Tuercas de 3/4,0.2,0.1,10
+ALQ69,Perno de varilla corrugada de 1 x 1.20 m,15,5.25,10
+ALQ70,Tuerca 1/2,0.2,0.1,10
+ALQ71,Arandela de 3/4,0.5,0.1,10
+ALQ72,Acople de 1,2,0.21,10
+ALQ73,Viga pilote 3.05 m,60,6.3,10
+ALQ74,Wailer de 6 x 5.00 m,240,8.75,10
+ALQ75,Wailer de 6 x 4.30 m,206.4,7.35,10
+ALQ76,Wailer de 6 x 3.40 m,163.2,7.35,10
+ALQ77,Perno de varilla corrugada 1 x 3.10 m,38.75,10.5,10
+ALQ78,Perno de varilla corrugada 1 x 4.00 m,50,10.5,10
+ALQ79,Pasamano para escalerón,35,2.65,10
+ALQ80,Perno de varilla corrugada 1 x 3.80 m,47.5,10.5,10
+ALQ81,Wailer de 5 x 4.30 m,171.32,7.35,10
+ALQ82,Viga pilote 4.50 m,8,9.25,10
+ALQ83,Viga pilote 2.70 m,52,5.5,10
+ALQ84,Marco de andamio de albañilería  1.56 m x 2.00 m x x 1 1/2,90,3.15,10
+ALQ85,Rodo para andamio de 1 1/2,12,1.3,10
+ALQ86,Viga H de 6.00 m,84,6.3,10
+ALQ87,Marco de andamio estructural rojo 1.82 m x 1.28 m x 2 diseño diferente,150,3.7,10
+ALQ88,Marco de andamio de albañilería de 1.65 m x 1.23 m x 1 1/2,90,3.15,10
+ALQ89,Marco de andamio de albañilería de 1.62 m x 1.26 m x 1 1/2,90,3.15,10
+ALQ90,Marco de andamio de albañilería de 1.56 m x 1.97 m x x 1 1/2,90,3.15,10
+ALQ91,Marco de andamio de albañilería de  1.79 m x 1.56 m x x 1 1/2,90,3.15,10
+ALQ92,Viga H de 2.50 m,35,3.15,10
+ALQ93,Wailer de 6 x 1.50 m,72,3.15,10
+ALQ94,Cruceta de ángulo de 1 x 1.77 m,25,0.55,10
+ALQ95,Cruceta de ángulo de 1 x 1.96 m,25,0.55,10
+ALQ96,Cruceta de ángulo de 1 x 1.65 m,25,0.55,10
+ALQ97,Cruceta de ángulo de 1 x 1.73 m,25,0.55,10
+ALQ98,Cruceta de tubo de 1 x 3.50 m,25,0.55,10
+ALQ99,Cruceta de tubo de 1 x 2.90 m,25,0.55,10
+ALQ100,Cruceta de ángulo de 1 x 2.20 m,25,0.55,10
+ALQ101,Cruceta de tubo de 1 x 3.30 m,25,0.55,10
+ALQ102,Cruceta de ángulo de 1 x 2.90 m,25,0.55,10
+ALQ103,Cruceta de tubo de 1 x 2.50 m,25,0.55,10
+ALQ104,Base superior de 2 sin tubo,60,1.6,10
+ALQ105,Base inferior de 2 con rodo soldado a la placa,125,2.3,10
+ALQ106,Base inferior de 2 con placa desenmontable,125,2.3,10
+ALQ107,Base inferior de 1 1/4,115,2.3,10
+ALQ108,Placa de 0.05 m x 0.15 m x 3/8,4,0.45,10
+ALQ109,Tubo riostra metálico de 1/2 x 6.00 m,5,0.75,10
+ALQ110,Tubo riostra metálico de 1 de 3.50 m,4.5,1.3,10
+ALQ111,Tubo riostra metálico de 1 de 5.50 m,7.5,1.8,10
+ALQ112,Tubo riostra metálico de 1 de 2.50 m,4,1.05,10
+ALQ113,Tubo riostra metálico de 1 1/2 de 6.00 m,8.5,1.05,10
+ALQ114,Wailer de 6 x 4.80 m,230.4,8.4,10
+ALQ115,Wailer de 6 x 8.00 m,384,14,10
+ALQ116,Clamp 0.91 cm x 0.91 cm,75,3.15,10
+ALQ117,Clamp 0.77 cm x 0.77 cm,75,3.15,10
+ALQ118,Barreno,70,21,10
+ALQ119,Cañuela de 2 x 1 x 6.00 m,15,1.05,10
+ALQ120,Cañuela de 2 x 1 x 3.00 m,7.5,0.53,10
+ALQ121,Cañuela de 2 x 1 x 2.10 m,6,0.32,10
+ALQ122,Perno cónico de 1 1/2 1.50 m,125,7.35,10
+ALQ123,Perno cónico de 1 1/2 1.80 m,125,7.35,10
+ALQ124,Perno de varilla corrugada de 1 x 1.70 m,21.25,5.25,10
+ALQ125,Viga H de 4.00 m W 6 x 9,55.08,4.2,10
+ALQ126,Molde para jardinero,5.5,52.5,10
+ALQ127,Molde para pozo,450,52.5,10
+ALQ128,Viga H de 1.85 m con placa 3/8 x 0.20 m x 0.20 m con tubo soldado de 0.40 m x 2,38,4.2,10
+ALQ129,Tuerca 1/4,0.2,0.1,10
+ALQ130,Perno todo rosca de 1 x 0.50 m,6.25,2.65,10
+ALQ131,Perno todo rosca de 1 x 0.30 m,3.75,1.05,10
+ALQ132,Perno todo rosca de 1 x 0.80 m,10,2.65,10
+ALQ133,Perno todo rosca de 1 x 0.75 m,9.38,2.65,10
+ALQ134,Perno todo rosca de 1 x 0.20 m,2.5,1.05,10
+ALQ135,Perno todo rosca de 1 x 0.15 m,1.88,1.05,10
+ALQ136,Perno todo rosca de 1 x 0.10 m,1.25,0.53,10
+ALQ137,Perno todo rosca de 3/4 x 0.50 m,3.5,1.05,10
+ALQ138,Perno todo rosca de 1/2 x 1.00 m,4,0.45,10
+ALQ139,Perno todo rosca de 3/8 x 1.00 m,7,1.05,10
+ALQ140,Perno todo rosca de 1/4 x 1.00 m,3,0.35,10
+ALQ141,Perno todo rosca de 1/4 x 0.75 m,3,0.35,10
+ALQ142,Perno todo rosca de 3/8 x 0.50 m,4,0.45,10
+ALQ143,Tuerca 3/8,0.15,0.1,10
+ALQ144,Arandela 3/8,0.4,0.1,10
+ALQ145,Arandela 1/4,0.3,0.1,10
+ALQ146,Formaleta metálica 30 cm x 2.07 m,145,3.15,10
+ALQ147,Pilote metálico liviano,100,1.9,10
+ALQ148,Pilote metálico estructural,100,1.9,10
+ALQ149,Acoples de 7/8,12,0.21,10
+ALQ150,Viga channel de 4 x 5 lbs/pie x 1.53 m,18,3.2,10
+ALQ151,Base superior de 2 x 0.60 m,60,2.3,10
+ALQ152,Plataforma metálica 0.30 m x 2.16 m,150,4.75,10
+ALQ153,Perno cónico de 1 x 3/4 x 1.20 m,48,10.5,10
+ALQ154,Tuerca 1 1/4,2,0.2,10
+ALQ155,Viga H de 1.225 m,17.15,3.15,10
+ALQ156,Viga Chanel de 4 x 6 m,0,0,10
+ALQ157,Viga H de 12.00 m,151,12.6,10
+ALQ158,Cepo 5/8,0.34,1,10
+ALQ159,Perno todo rosca de 1 x 2.00 m,7.5,5.25,10
+ALQ160,Tuerca de 5/8,0.95,0,10
+ALQ161,Tensor señorita de 3/4,14,0,10
+ALQ162,Perno ancla 1/2 x 4 1/4,1.43,0.3,10
+ALQ163,Perno ancla 1/2 x 3 3/4,1.19,0.3,10
+ALQ164,Pasamano para escalerón largo,20,1.85,10
+ALQ165,Brazo en L para andamiaje en cantiliver o moldeado de losa,0,0,10
+ALQ166,Tubo base para andamio,0,0,10
+ALQ167,Perno cónico de 1 1/4 x 1 x 1.20 m,56,10.5,10
+ALQ168,Perno cónico de 1 1/4 x 1 x 1.00 m,52,10.5,10
+ALQ169,Wailer de 4 x 1.50 m,48.34,2.65,10
+ALQ170,Viga H  W8x10 de 12.20 M,0,12.6,10
+ALQ171,Perno cónico de 1 1/2 x 7/8 x 1.00 m,0,0,10
+ALQ172,Formaletas Metalicas de 40 cm x 2.00 m,58.65,5.8,10
+ALQ173,Formaletas Metalicas de 60 cm x 2.00 m,67.65,3.5,10
+ALQ174,Wailer de 3 x 1.50m,48.34,2.65,10
+ALQ175,Perno todo rosca de 5/8 x 2.0 m,0,1.05,10
+ALQ176,Perno todo rosca de 5/8 x 1.0 m,0,1.05,10
+ALQ177,Tuerca de 7/8,0,0.1,10
+ALQ178,Arandela de 7/8,0,0.1,10
+ALQ179,Arandela de 1 1/4,3.2,0.1,10
+ALQ180,Tuerca de 1 1/4,1.8,0,10
+ALQ181,Arandela de 1 1/2,0,0.1,10
+ALQ182,Viga h de 1.60 m,22.4,2.8,10
+ALQ183,"Channel 3"" de 2 metros",13.85,2.35,10
+ALQ184,Viga H W6x9 de 1.20 metros,25.2,1.5,10
+ALQ185,Vigas H-20 de 1.90 metros (usadas),15.85,3.15,10
+ALQ186,Vigas H-20 de 2.90 metros (usadas),24.2,3.7,10
+ALQ187,Marco de andamio estructural de 0.91M x 1.28M x 2,125,3.45,10
+ALQ188,Viga H de 1.30 m,18.2,3.15,10
+ALQ189,Channel de 3 x 1.50m,41.04,2,10
+ALQ190,Viga H de 10.00 m,0,16.8,10
+ALQ191,Perno ancla 1/2 x 3 3/4 completo incluye 2 tuercas y 2 arandelas,1.19,0.5,10
+ALQ192,Perno ancla 1/2 x 4 1/4 completo incluye 2 tuercas y 2 arandelas,1.43,0.5,10
+ALQ193,Perno cónico de 1 1/2 x 1.20 m completo incluye 2 tuercas y 2 arandelas,125,7.55,10
+ALQ194,Perno cónico de 1 1/2 x 7/8 x 1.00 m completo incluye 2 tuercas y 2 arandelas,0,0,10
+ALQ195,Perno cónico de 1 1/2 1.50 m completo incluye 2 tuercas y 2 arandelas,125,7.55,10
+ALQ196,Perno cónico de 1 1/2 1.80 m completo incluye 2 tuercas y 2 arandelas,125,7.55,10
+ALQ197,Perno cónico de 1 1/4 x 1 x 1.00 m completo incluye 2 tuercas y 2 arandelas,52,10.8,10
+ALQ198,Perno cónico de 1 1/4 x 1 x 1.20 m completo incluye 2 tuercas y 2 arandelas,56,10.8,10
+ALQ199,Perno cónico de 1 1/4 x 1 x 1.50 m completo incluye 2 tuercas y 2 arandelas,64,12.11,10
+ALQ200,Perno cónico de 1 x 3/4 x 1.20 m completo incluye 2 tuercas y 2 arandelas,48,10.7,10
+ALQ201,Perno de varilla corrugada 1 x 1.50 m completo incluye 2 tuercas y 2 arandelas,18.75,5.45,10
+ALQ202,Perno de varilla corrugada 1 x 3.10 m completo incluye 2 tuercas y 2 arandelas,38.75,10.7,10
+ALQ203,Perno de varilla corrugada 1 x 3.80 m completo incluye 2 tuercas y 2 arandelas,47.5,10.7,10
+ALQ204,Perno de varilla corrugada 1 x 4.00 m completo incluye 2 tuercas y 2 arandelas,50,10.7,10
+ALQ205,Perno de varilla corrugada de 1 x 1.20 m completo incluye 2 tuercas y 2 arandelas,15,5.45,10
+ALQ206,Perno de varilla corrugada de 1 x 1.70 m completo incluye 2 tuercas y 2 arandelas,21.25,5.45,10
+ALQ207,Perno todo rosca de 1 x 0.10 m completo incluye 2 tuercas y 2 arandelas,1.25,0.73,10
+ALQ208,Perno todo rosca de 1 x 0.15 m completo incluye 2 tuercas y 2 arandelas,1.88,1.25,10
+ALQ209,Perno todo rosca de 1 x 0.20 m completo incluye 2 tuercas y 2 arandelas,2.5,1.25,10
+ALQ210,Perno todo rosca de 1 x 0.30 m completo incluye 2 tuercas y 2 arandelas,3.75,1.25,10
+ALQ211,Perno todo rosca de 1 x 0.50 m completo incluye 2 tuercas y 2 arandelas,6.25,2.85,10
+ALQ212,Perno todo rosca de 1 x 0.75 m completo incluye 2 tuercas y 2 arandelas,9.38,2.85,10
+ALQ213,Perno todo rosca de 1 x 0.80 m completo incluye 2 tuercas y 2 arandelas,10,2.85,10
+ALQ214,Perno todo rosca de 1 x 1.00 m completo incluye 2 tuercas y 2 arandelas,12.5,2.85,10
+ALQ215,Perno todo rosca de 1 x 2.00 m completo incluye 2 tuercas y 2 arandelas,7.5,5.45,10
+ALQ216,Perno todo rosca de 1/2 x 1.00 m completo incluye 2 tuercas y 2 arandelas,4,0.65,10
+ALQ217,Perno todo rosca de 1/2 x 2.00 m completo incluye 2 tuercas y 2 arandelas,8,1.05,10
+ALQ218,Perno todo rosca de 1/4 x 0.75 m completo incluye 2 tuercas y 2 arandelas,3,0.55,10
+ALQ219,Perno todo rosca de 1/4 x 1.00 m completo incluye 2 tuercas y 2 arandelas,3,0.55,10
+ALQ220,Perno todo rosca de 3/4 x 0.50 m completo incluye 2 tuercas y 2 arandelas,3.5,1.25,10
+ALQ221,Perno todo rosca de 3/4 x 1.00 m completo incluye 2 tuercas y 2 arandelas,7,1.25,10
+ALQ222,Perno todo rosca de 3/8 x 0.50 m completo incluye 2 tuercas y 2 arandelas,4,0.65,10
+ALQ223,Perno todo rosca de 3/8 x 1.00 m completo incluye 2 tuercas y 2 arandelas,7,1.25,10
+ALQ224,Perno todo rosca de 5/8 x 1.00 m completo incluye 2 tuercas y 2 arandelas,5,1.78,10
+ALQ225,Perno todo rosca de 5/8 x 2.00 m completo incluye 2 tuercas y 2 arandelas,7,1.25,10
+ALQ226,Viga H de 4.00 m W 8 X 10,0,4.9,10
+ALQ227,"Acople de 3/8""",0,0,10
+ALQ228,"Angulo de 3/8"" x 0.15 m x 3/8""",0,0,10
+ALQ229,"Arandela de 1/2""",0,0,10
+ALQ230,Cajuela para andamio,0,0,10
+ALQ231,"Channel de 3"" x 12.20 m",0,0,10
+ALQ232,"Channel de 4"" x 6.00 m",0,0,10
+ALQ233,"Cruceta de tubo de 1"" x 2.30 m",0,0,10
+ALQ234,"Cruceta de angulo de 1"" x 1.50 m",0,0,10
+ALQ235,"Cruceta de angulo de 1"" x 1.30 m",0,0,10
+ALQ236,"Perno de varilla corrugada de 1"" x 1.00 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ237,"Perno de varilla corrugada de 1"" x 3.20 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ238,"Perno de varilla corrugada de 1"" x 6.70 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ239,"Perno de varilla corrugada de 1"" x 2.00 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ240,"Perno todo rosca de 1"" x 0.90 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ241,"Perno todo rosca de 1"" x 1.20 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ242,"Perno todo rosca de 1"" x 1.50 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ243,"Perno todo rosca de 1"" x 3.00 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ244,"Perno todo rosca de 3/4"" x 0.25 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ245,"Perno todo rosca de 1/2"" x 0.30 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ246,"Perno todo rosca de 1/2"" x 0.20 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ247,"Perno todo rosca de 1/2"" x 0.65 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ248,"Perno todo rosca de 1/2"" x 0.5 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ249,"Perno todo rosca de 5/8"" x 0.40 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ250,"Perno todo rosca de 5/8"" x 0.60 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ251,"Perno todo rosca de 5/8"" x 0.50 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ252,"Perno todo rosca de 7/8"" x 1.00 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ253,"Perno todo rosca de 7/8"" x 0.65 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ254,"Perno todo rosca de 7/8"" x 0.40 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ255,"Perno todo rosca de 7/8"" x 0.30 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ256,"Perno todo rosca de 7/8"" x 0.20 m completo incluye 2 tuercas y 2 arandelas",0,0,10
+ALQ257,"Placa de 0.15 m  x 0.15 m x 3/8"" con agujero de 1/2""",0,0,10
+ALQ258,"Placa de 0.15 m x 0.10 m x 3/8""",0,0,10
+ALQ259,"Wailer de 4"" x 1.30 m",0,0,10
+ALQ260,"Wailer de 4"" x 5.40 m",130.52,0,10
+ALQ261,"Wailer de 6"" x 5.50 m",0,0,10
+ALQ262,"Wailer de 6"" x 4.56 m",0,0,10
+ALQ263,"Marco de andamio estructural de 1.26 m x 1.80 m de 2""",0,0,10
+ALQ264,Viga I de aluminio de 6 pies,45.5,2.4,10
+ALQ265,Viga I de aluminio de 9.5 pies,72.5,3.8,10
+ALQ266,Viga I de aluminio de 13 pies,100,5.2,10
+ALQ267,Viga I de aluminio de 19 pies,145,7.6,10
+ALQ268,"Marco de andamio estructural 1.82 m x 1.27 m x 2""",175,3.7,10
+ALQ269,"Placa de 3/8"" x 15 cm x 15 cm con agujero de 1 1/4""",6,1.1,10
+ALQ270,"Placa de angulo de 3/8"" con agujero de 1""",6,1.1,10
+ALQ271,Viga H de 3.05M  Acero A992,0,0,10
+ALQ272,"placa de 1 1/2"" x 10 cm x 10 cm x 3/8""",0,1.1,10
+ALQ273,Cajuela superior de 0.20 m,0,0,10
+ALQ274,"Wailer de 5""x6.0M",0,0,10
+ALQ275,"Wailer de 5""x4.0M",0,0,10
+ALQ276,"Wailer de 5""x3.0M",0,0,10
+ALQ277,"Wailer de 5""x2.0M",0,0,10
+ALQ278,"Wailer de 5""x1.20M",0,0,10
+ALQ279,Wailer de 5¨x 6.0 M,0,0,10
+ALQ280,Wailer de 5¨x 4.0 M,0,0,10
+ALQ281,Wailer de 5¨x 3.0 M,0,0,10
+ALQ282,Wailer de 5¨x 2.0 M,0,0,10
+ALQ283,Wailer de 5¨x 1.20 M,0,0,10
+ALQ284,Extencion para andamio  Estructural de 1.26 M x 1.20 M x 2¨,0,3.6,10
